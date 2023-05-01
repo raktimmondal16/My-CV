@@ -1,0 +1,181 @@
+
+<html>
+   <style>
+      img{
+         height: 180px;
+         width: 160px;
+      }
+   </style>
+    <body>
+        <center>
+     <b>
+        <h1>  CURRICULUM VITAE</h1>
+        <h3>Raktim Kumar Mondal</h3>
+    </b>
+        Student Of Daffodil International University <br>
+        Address: Nazipur,Naogaon,Bangladesh <br>
+        Email: raktim15-4287@diu.edu.bd<br>
+        <br>
+        <img src="F:\dev1.jpg" alt="My Picture">
+
+    
+        </center>
+
+    <hr>
+       <h3 style="color:purple;">CAREER OBJECTIVE</h3>
+    <hr>
+     <p>Graduate of computer science with experience working across the
+full-stack of software development. Looking for a role where I can
+grow and learn from experienced team members while drawing on
+project experience I have already successfully executed
+     </p> 
+     <br>
+        <h3 style="color:purple;">
+            JOB EXPERIENCE
+        </h3>
+     <hr>
+     <p>
+      <ul>
+         <li>
+            Worked as a incharge at Voice.
+         </li>
+         <li>
+            Working as a SQA Engineer .
+            
+         </li>
+         <li>
+           Worked as Database Administrator.
+         </li>
+      </ul>
+     </p>
+     <br>
+
+     <h3 style="color:purple;">
+        SKILL
+     </h3>
+     <hr>
+     <p>
+        <ul>
+         <li>Web developement(html,css,js,py) </li>
+         <li>C programming</li>
+         <li>Java and Python(With OOP)</li>
+         <li>Google From</li>
+         <li>Hard Working.</li>
+       </ul>
+       
+       
+     </p>
+    <br>
+     <h3 style="color:purple;">
+        ACADEMIC QUALIFICATION
+     </h3>
+     <hr>
+     <center> <p style="color:purple;">Education Qualification</p>
+     <table border="2" width="1100" height="100">
+      <thead>
+         <tr style="text-align: center">
+            <th>Degree</th>
+            <th>Year</th>
+            <th>Institution</th>
+            <th>Result</th>
+
+         </tr>
+         </thead>
+         <tbody>
+         <tr>
+            <td style="background-color:white;color:black">BSC in CSE</td>
+            <td style="background-color:gainsboro;color:black">2023 in 5th semester</td>
+            <td style="background-color:white;color:black">Daffodil International University</td>
+            <td style="background-color:gainsboro;color:black">3.38</td>
+
+         </tr>
+         <tr>
+            <td style="background-color:gainsboro;color:black">HSC</td>
+            <td style="background-color:white;color:black">2020</td>
+            <td style="background-color:gainsboro;color:black">Nazipur Govt College</td>
+            <td style="background-color:white;color:black">4.08</td>
+
+         </tr>
+         <tr>
+            <td style="background-color:white;color:black">SSC</td>
+            <td style="background-color:gainsboro;color:black">2018</td>
+            <td style="background-color:white;color:black">Nazipur Govt Model High School</td>
+            <td style="background-color:gainsboro;color:black">4.06</td>
+
+         </tr>
+         <tr>
+            <td style="background-color:gainsboro;color:black">JSC</td>
+            <td style="background-color:white;color:black">2015</td>
+            <td style="background-color:gainsboro;color:black">Nazipur Govt Model High School</td>
+            <td style="background-color:white;color:black">4.95</td>
+
+         </tr>
+      </tbody>
+     </table>
+   </center>
+    
+     <h3 style="color:purple;">
+        EXTRA CURRICULUM ACTIVITIES
+     </h3>
+     <hr>
+        <p>
+         <ol type="i">
+            <li>Worked as a volunteer in annual prigramming in Rajsahi college in 2017. </li>
+            <li>Worked as a volunteer in Health Service.</li>
+            <li>Take partivipation in DIU CSE Inter Department Programming Contest.</li>
+            <li>Joined in Volunteer Service Club of Daffodil International University. </li>
+             
+             
+             
+            </ol>
+         </p>
+         <br>
+     <h3 style="color:purple;">
+        LINGUISTIC PROFICIENCY
+     </h3>
+      <hr>
+     <p>
+      <ul style="list-style-type:circle;">
+      <li>English: Efficiency in reading, Writing, Speaking and Listening.</li>
+      <li>Bangla: Efficiency in reading, Writing, Speaking and Listening.</li>
+      <li>Hindi: Efficiency in Speaking and Listening. </li>
+     
+   </ul>
+     </p>
+     <br>
+
+     <h3 style="color:purple;">
+        PERSONAL INFORMATION
+     </h3>
+     <hr>
+     <p>
+      <ul>
+         <li>Father's Name: Antim Chandra Mondal</li>
+          <li>Mother's Name: Krishna Rani Mondal</li>
+          <li>Date of Birth: 20-07-2002</li>
+          <li>Nationality: Bangladesh</li>
+         <li>Religion: Hinduism </li>
+         <li>Marital Status: Single </li>
+        <li>Permanent Address: District-Naogaon, Thana-Patnitala, Nazipur</li>
+        <li> Present Address: Katlapur,Savar,Dhaka </li>
+      </ul>
+     </p>
+     <br>
+     <h3 style="color:purple;">
+        INTEREST
+     </h3>
+     <hr>
+     <p>
+       <ol>
+        <li> Spritual Culture</li>
+         <li>Watching TV </li>
+         <li>Travelling </li>
+         <li> Playing Cricket</li>
+         <li> Reading Spritual Books</li>
+         
+       </ol>
+     </p>
+     <br>
+    </body>
+</html>
+
